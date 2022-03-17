@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Unity, Unreal, F# and more
 - 🤔 I’m looking for help with assets, textures and models
 - 💬 Ask me about android live wallpaper
-- 📫 How to reach me: peter.zlomek1@gmail.com or <a href="Linkedin: https://www.linkedin.com/in/peter-zlomek/">my Linkedin</a>
+- 📫 How to reach me: peter.zlomek1@gmail.com or my <a href="https://www.linkedin.com/in/peter-zlomek/">Linkedin</a>
 - ⚡ Fun fact: My game has a website at <a href="https://www.shootthezombies.com/">shootthezombies.com</a>
 
 ### GitHub Stats
