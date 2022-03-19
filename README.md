@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on my video game: Shoot the Zombies
-- 🌱 I’m currently learning Unity, Unreal, F# and more
+- 🚀 I’m currently learning Unity, Unreal, F# and more
 - 🤔 I’m looking for help with assets, textures and models
 - 💬 Ask me about my android live wallpaper
 - 📫 How to reach me: my <a href="mailto:peter.zlomek1@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>, my <a href="https://www.linkedin.com/in/peter-zlomek/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> or my <a href="https://www.youtube.com/channel/UCYo2rp6iB6VS9zcmm53ssBg">![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
