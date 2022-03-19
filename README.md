@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my video game: Shoot the Zombies
 - 🌱 I’m currently learning Unity, Unreal, F# and more
 - 🤔 I’m looking for help with assets, textures and models
-- 💬 Ask me about android live wallpaper
-- 📫 How to reach me: peter.zlomek1@gmail.com or my <a href="https://www.linkedin.com/in/peter-zlomek/">Linkedin</a>
+- 💬 Ask me about my android live wallpaper
+- 📫 How to reach me: peter.zlomek1@gmail.com or my <a href="https://www.linkedin.com/in/peter-zlomek/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 - ⚡ **Fun fact:** My game has a website at <a href="https://www.shootthezombies.com/">shootthezombies.com</a>
 
 ### Languages:
