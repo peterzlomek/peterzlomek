@@ -1,5 +1,5 @@
 # Peter Zlomek
-## IT Helpdesk Support @ EBizDocs   ||   Owner & Full Stack Developer @ P0st Scr1pt Stud10s
+<!-- ## IT Helpdesk Support @ EBizDocs   ||   Owner & Full Stack Developer @ P0st Scr1pt Stud10s -->
 >IT Helpdesk Support @ EBizDocs   ||   Owner & Full Stack Developer @ P0st Scr1pt Stud10s
 <!--
 **peterzlomek/peterzlomek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
