@@ -1,5 +1,6 @@
 # Peter Zlomek
 ## IT Helpdesk Support @ EBizDocs   ||   Owner & Full Stack Developer @ P0st Scr1pt Stud10s
+>IT Helpdesk Support @ EBizDocs   ||   Owner & Full Stack Developer @ P0st Scr1pt Stud10s
 <!--
 **peterzlomek/peterzlomek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,7 +30,7 @@ Here are some ideas to get you started:
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-# Hardware:
+#### Hardware:
 ![MacM1](https://img.shields.io/badge/Apple-MacBook_M1-999999?style=for-the-badge&logo=apple&logoColor=white)
 
 ### GitHub Stats:
