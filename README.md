@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🚀 I’m currently learning Unity, Unreal, F# and more
 - 🤔 I’m looking for help with assets, textures and models
 - 💬 Ask me about my android live wallpaper
-- 📫 How to reach me: my <a href="peter.zlomek1@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>, my <a href="https://www.linkedin.com/in/peter-zlomek/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> or my <a href="https://www.youtube.com/channel/UCYo2rp6iB6VS9zcmm53ssBg">![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
+- 📫 How to reach me: my <a href="mailto:peter.zlomek1@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)</a>, my <a href="https://www.linkedin.com/in/peter-zlomek/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)</a> or my <a href="https://www.youtube.com/channel/UCYo2rp6iB6VS9zcmm53ssBg">![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)</a>
 - ⚡ **Fun fact:** My game has a website at <a href="https://www.shootthezombies.com/">shootthezombies.com</a>
 
 ### Languages:
@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-![Test](https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white)
+<!-- ![Test](https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white) -->
