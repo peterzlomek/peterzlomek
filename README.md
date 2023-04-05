@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with assets, textures and models
 - 💬 Ask me about my android live wallpaper
 - 📫 How to reach me: my <a href="mailto:peter.zlomek1@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)</a>, my <a href="https://www.linkedin.com/in/peter-zlomek/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)</a> or my <a href="https://www.youtube.com/channel/UCYo2rp6iB6VS9zcmm53ssBg">![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)</a>
-- ⚡ **Fun fact:** My game has a website at <a href="https://www.shootthezombies.com/">shootthezombies.com</a>
+- Check out my personal website at <a href="https://peterzlomek.github.io/">peterzlomek.github.io</a>
+- ⚡ **Fun fact:** My game has a website at <a href="https://shootthezombies.com/">shootthezombies.com</a>
 
 ### Languages:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
